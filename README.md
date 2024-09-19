@@ -1,5 +1,5 @@
 # mqtt
-mqtt configuration for iot aggregator project
+A Docker setup for running Eclpse Mosquitto MQTT broker
 
 
 run using 

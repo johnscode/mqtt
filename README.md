@@ -1,2 +1,2 @@
 # mqtt
-mqtt confiuration for iot aggregator project
+mqtt configuration for iot aggregator project
